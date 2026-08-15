@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RahulKr2005/LEETCODE/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/RahulKr2005/LEETCODE/tree/master/0039-combination-sum) |
 | [0179-largest-number](https://github.com/RahulKr2005/LEETCODE/tree/master/0179-largest-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RahulKr2005/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RahulKr2005/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RahulKr2005/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
