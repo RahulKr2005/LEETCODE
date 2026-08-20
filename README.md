@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RahulKr2005/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RahulKr2005/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RahulKr2005/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
